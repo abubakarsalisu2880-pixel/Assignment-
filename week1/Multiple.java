@@ -4,5 +4,6 @@ public class Multiple{
     int b = 6;
     int result = a * b;
     System.out.println("Result is: " + result);
+
   }
 }
